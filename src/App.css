@@ -1,0 +1,29 @@
+.header nav a{
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 5px;
+  }
+  .nav-img img{
+    width: 20vh;
+  }
+  .navbar-link{
+    margin-left: 40%;
+  }
+  .my-card{
+    border: 1px solid #dc3545;
+  }
+  .usr img{
+    border-radius: 50px;
+  }
+  .pd-img img{
+    width: 80px;
+  }
+  .contact{
+    border: 1px solid #dc3545;
+  }
+  .banner{
+    position:relative;
+    left:20%;
+    top:35%;
+    font-size: 1.5rem;
+  }
